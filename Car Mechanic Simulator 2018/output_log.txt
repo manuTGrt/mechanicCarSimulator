@@ -7,14 +7,14 @@ Direct3D:
     VRAM:     4018 MB
     Driver:   26.21.14.4250
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.034 seconds
+- Completed reload, in  0.966 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 72.605300 ms
-Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-00000217317D8320.dll
-Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-000002173183A010.dll
-Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-000002173F9F0080.dll
+UnloadTime: 7.633000 ms
+Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-000001AEDBEA0020.dll
+Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-000001AEDBEFD8C0.dll
+Fallback handler could not load library D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/Mono/data-000001AEA4BF0080.dll
 Searching for compatible XInput library...
 Found Xinput1_4.dll.
 Nick: CODEX
@@ -40,53 +40,53 @@ Start LoadModdingPartsToShop
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.686500 ms
+UnloadTime: 0.706500 ms
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 10214.
-Total: 51.325800 ms (FindLiveObjects: 0.394200 ms CreateObjectMapping: 0.406800 ms MarkObjects: 50.488500 ms  DeleteObjects: 0.035900 ms)
+Total: 16.748000 ms (FindLiveObjects: 0.445200 ms CreateObjectMapping: 0.297700 ms MarkObjects: 15.976500 ms  DeleteObjects: 0.028200 ms)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 10.941000 ms
+UnloadTime: 11.638700 ms
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 10225.
-Total: 17.561000 ms (FindLiveObjects: 0.446500 ms CreateObjectMapping: 0.637500 ms MarkObjects: 16.457200 ms  DeleteObjects: 0.019200 ms)
+Total: 16.967000 ms (FindLiveObjects: 0.436000 ms CreateObjectMapping: 0.645800 ms MarkObjects: 15.849300 ms  DeleteObjects: 0.035500 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.594200 ms
+UnloadTime: 0.777700 ms
 
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 10225.
-Total: 16.583000 ms (FindLiveObjects: 0.408600 ms CreateObjectMapping: 0.271700 ms MarkObjects: 15.883300 ms  DeleteObjects: 0.019000 ms)
+Total: 15.938800 ms (FindLiveObjects: 0.331700 ms CreateObjectMapping: 0.276300 ms MarkObjects: 15.312500 ms  DeleteObjects: 0.018200 ms)
 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.732300 ms
+UnloadTime: 0.661500 ms
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 10259.
-Total: 16.683600 ms (FindLiveObjects: 0.416000 ms CreateObjectMapping: 0.288300 ms MarkObjects: 15.959700 ms  DeleteObjects: 0.019400 ms)
+Total: 16.442600 ms (FindLiveObjects: 0.354600 ms CreateObjectMapping: 0.266100 ms MarkObjects: 15.800500 ms  DeleteObjects: 0.021200 ms)
 
 START LOAD SCENE :Menu Menu FADER :False 
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.092500 ms
+UnloadTime: 11.762500 ms
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 10290.
-Total: 18.161700 ms (FindLiveObjects: 0.499000 ms CreateObjectMapping: 0.631300 ms MarkObjects: 17.007000 ms  DeleteObjects: 0.024000 ms)
+Total: 24.841900 ms (FindLiveObjects: 0.347000 ms CreateObjectMapping: 0.294800 ms MarkObjects: 24.169700 ms  DeleteObjects: 0.030100 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 10290.
-Total: 17.046500 ms (FindLiveObjects: 0.438800 ms CreateObjectMapping: 0.605000 ms MarkObjects: 15.980000 ms  DeleteObjects: 0.022400 ms)
+Total: 16.710600 ms (FindLiveObjects: 0.472000 ms CreateObjectMapping: 0.441700 ms MarkObjects: 15.775900 ms  DeleteObjects: 0.020700 ms)
 
 Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 0.872800 ms
+UnloadTime: 0.716400 ms
 LoadCar car_chieftainbandit
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 11162.
-Total: 25.904700 ms (FindLiveObjects: 0.523900 ms CreateObjectMapping: 0.341200 ms MarkObjects: 24.993900 ms  DeleteObjects: 0.045600 ms)
+Total: 21.616300 ms (FindLiveObjects: 0.455800 ms CreateObjectMapping: 0.291500 ms MarkObjects: 20.836200 ms  DeleteObjects: 0.032600 ms)
 
 Modo normal
  
@@ -111,735 +111,72 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
 (Filename:  Line: 0)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 1)
-SCENE LOADING DONE IN 00:00:13.1198846
+SCENE LOADING DONE IN 00:00:12.7601540
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
 Unloading 2811 unused Assets to reduce memory usage. Loaded Objects now: 15626.
-Total: 19.473000 ms (FindLiveObjects: 0.834100 ms CreateObjectMapping: 0.466500 ms MarkObjects: 17.602600 ms  DeleteObjects: 0.569500 ms)
+Total: 49.368000 ms (FindLiveObjects: 1.050900 ms CreateObjectMapping: 1.932300 ms MarkObjects: 45.503000 ms  DeleteObjects: 0.881200 ms)
 
 START LOAD SCENE :garage Garage FADER :True ScreenFader (ScreenFader)
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 30.388900 ms
+UnloadTime: 17.665600 ms
 
 Unloading 647 unused Assets to reduce memory usage. Loaded Objects now: 10370.
-Total: 22.347600 ms (FindLiveObjects: 0.338000 ms CreateObjectMapping: 0.340100 ms MarkObjects: 16.771100 ms  DeleteObjects: 4.898200 ms)
+Total: 21.707300 ms (FindLiveObjects: 0.360100 ms CreateObjectMapping: 0.334800 ms MarkObjects: 16.555800 ms  DeleteObjects: 4.456400 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 10370.
-Total: 19.868200 ms (FindLiveObjects: 3.024800 ms CreateObjectMapping: 0.489400 ms MarkObjects: 16.339700 ms  DeleteObjects: 0.013700 ms)
+Total: 19.528300 ms (FindLiveObjects: 2.952200 ms CreateObjectMapping: 0.544300 ms MarkObjects: 16.017400 ms  DeleteObjects: 0.014100 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 1)
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 10370.
-Total: 17.059300 ms (FindLiveObjects: 0.427100 ms CreateObjectMapping: 0.523600 ms MarkObjects: 16.096600 ms  DeleteObjects: 0.011400 ms)
+Total: 16.830400 ms (FindLiveObjects: 0.463000 ms CreateObjectMapping: 0.265500 ms MarkObjects: 16.086100 ms  DeleteObjects: 0.015400 ms)
 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 1)
-UnloadTime: 0.579100 ms
+UnloadTime: 0.608800 ms
 *Config Extended - no config file D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/config.ini
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-LoadCar car_delraycustom
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 105 unused Assets to reduce memory usage. Loaded Objects now: 48429.
-Total: 38.423000 ms (FindLiveObjects: 2.401300 ms CreateObjectMapping: 1.101100 ms MarkObjects: 34.787300 ms  DeleteObjects: 0.132900 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 48965.
-Total: 39.731700 ms (FindLiveObjects: 2.334200 ms CreateObjectMapping: 1.298900 ms MarkObjects: 36.050100 ms  DeleteObjects: 0.048300 ms)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/FLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/RLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/#Exhaust_V8Old_C"
- 
-(Filename:  Line: 0)
-
-Finish load car:car_delraycustom in 00:00:01.2545827
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
-LoadCar car_dodgechallenger
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 2757 unused Assets to reduce memory usage. Loaded Objects now: 57008.
-Total: 46.301100 ms (FindLiveObjects: 2.882400 ms CreateObjectMapping: 2.107500 ms MarkObjects: 40.491500 ms  DeleteObjects: 0.819500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 57504.
-Total: 46.272000 ms (FindLiveObjects: 3.041700 ms CreateObjectMapping: 1.998800 ms MarkObjects: 41.127900 ms  DeleteObjects: 0.103300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58024.
-Total: 46.763800 ms (FindLiveObjects: 3.007100 ms CreateObjectMapping: 1.958400 ms MarkObjects: 41.734800 ms  DeleteObjects: 0.063300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 58544.
-Total: 46.607200 ms (FindLiveObjects: 3.024000 ms CreateObjectMapping: 1.961200 ms MarkObjects: 41.558700 ms  DeleteObjects: 0.063100 ms)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/FLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/RLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/#Exhaust_V8Old_Challenger"
- 
-(Filename:  Line: 0)
-
-Finish load car:car_dodgechallenger in 00:00:02.0237337
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Car_lift_1move up
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-SCENE LOADING DONE IN 00:00:30.2730237
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 2918 unused Assets to reduce memory usage. Loaded Objects now: 250339.
-Total: 194.161900 ms (FindLiveObjects: 16.003700 ms CreateObjectMapping: 9.042500 ms MarkObjects: 167.948200 ms  DeleteObjects: 1.167300 ms)
-
-Start backup save files
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Complete backup
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-EnterToRepairTable
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:782
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:781
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-EnterToRepairTable
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Try sell item with custom condition
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-AskWindow sell per condition SellPerCondition
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-con: 50
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Try sell item with custom condition
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-AskWindow sell per condition SellPerCondition
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-con: 63
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:4 size:19 width:135 profile:20 et:20
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:4 size:19 width:265 profile:35 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-WheelBalance
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:785
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-WheelBalance
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:786
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-WheelBalance
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:787
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-WheelBalance
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:788
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:787
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:786
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-WheelBalance
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Car_lift_1move down
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Car_lift_1move up
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-EnterToRepairTable
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:4 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:2 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:788
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-GroupInventory delete:785
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Car_lift_1move down
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-START LOAD SCENE :Menu Menu FADER :True ScreenFader (ScreenFader)
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Try to unload scene:Halloween
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Try to unload scene:Christmas
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Try to unload scene:Valentine
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Save Car To profile0/#CarLoader1
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Save Car To profile0/#CarLoader5
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 265.402000 ms
-
-Unloading 4130 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 262.632300 ms (FindLiveObjects: 12.324600 ms CreateObjectMapping: 3.242700 ms MarkObjects: 144.957200 ms  DeleteObjects: 102.107200 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 168.846300 ms (FindLiveObjects: 22.672600 ms CreateObjectMapping: 2.806500 ms MarkObjects: 143.143300 ms  DeleteObjects: 0.223500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 157.997200 ms (FindLiveObjects: 12.187200 ms CreateObjectMapping: 2.817600 ms MarkObjects: 142.743700 ms  DeleteObjects: 0.248200 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 158.418200 ms (FindLiveObjects: 12.031500 ms CreateObjectMapping: 2.837600 ms MarkObjects: 143.318300 ms  DeleteObjects: 0.230300 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 157.981600 ms (FindLiveObjects: 12.137800 ms CreateObjectMapping: 2.780500 ms MarkObjects: 142.839800 ms  DeleteObjects: 0.223000 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 157.967200 ms (FindLiveObjects: 12.002800 ms CreateObjectMapping: 2.733300 ms MarkObjects: 142.993500 ms  DeleteObjects: 0.237200 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
-Total: 159.261900 ms (FindLiveObjects: 12.182500 ms CreateObjectMapping: 2.760300 ms MarkObjects: 144.091000 ms  DeleteObjects: 0.227700 ms)
-
-Unloading 7 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 9.155600 ms
-LoadCar car_chieftainbandit
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 203425.
-Total: 164.162300 ms (FindLiveObjects: 13.561600 ms CreateObjectMapping: 2.967400 ms MarkObjects: 147.346900 ms  DeleteObjects: 0.286200 ms)
-
-Modo normal
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_chieftainbandit/FLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_chieftainbandit/RLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_chieftainbandit/#Exhaust_V8Old_C"
- 
-(Filename:  Line: 0)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-SCENE LOADING DONE IN 00:00:05.6176773
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 2811 unused Assets to reduce memory usage. Loaded Objects now: 207883.
-Total: 162.561600 ms (FindLiveObjects: 12.512900 ms CreateObjectMapping: 3.117200 ms MarkObjects: 145.928500 ms  DeleteObjects: 1.002700 ms)
-
-START LOAD SCENE :garage Garage FADER :True ScreenFader (ScreenFader)
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 89.038000 ms
-
-Unloading 645 unused Assets to reduce memory usage. Loaded Objects now: 202629.
-Total: 217.817500 ms (FindLiveObjects: 12.209300 ms CreateObjectMapping: 2.952800 ms MarkObjects: 156.711900 ms  DeleteObjects: 45.943000 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202629.
-Total: 162.280500 ms (FindLiveObjects: 17.615500 ms CreateObjectMapping: 2.761800 ms MarkObjects: 141.673100 ms  DeleteObjects: 0.229800 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202629.
-Total: 156.973200 ms (FindLiveObjects: 12.287000 ms CreateObjectMapping: 2.782500 ms MarkObjects: 141.681200 ms  DeleteObjects: 0.222200 ms)
-
-Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
-UnloadTime: 9.140300 ms
-*Config Extended - no config file D:/Games/Car Mechanic Simulator 2018 RAM/cms2018_Data/config.ini
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-LoadCar car_delraycustom
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 171 unused Assets to reduce memory usage. Loaded Objects now: 237945.
-Total: 180.277600 ms (FindLiveObjects: 14.633100 ms CreateObjectMapping: 5.132500 ms MarkObjects: 160.136600 ms  DeleteObjects: 0.375100 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 237961.
-Total: 182.889300 ms (FindLiveObjects: 14.524700 ms CreateObjectMapping: 4.552900 ms MarkObjects: 163.557100 ms  DeleteObjects: 0.254400 ms)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/FLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/RLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_delraycustom/#Exhaust_V8Old_C"
- 
-(Filename:  Line: 0)
-
-Finish load car:car_delraycustom in 00:00:01.3158820
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-LoadCar car_dodgechallenger
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 2757 unused Assets to reduce memory usage. Loaded Objects now: 243399.
-Total: 185.451900 ms (FindLiveObjects: 14.737300 ms CreateObjectMapping: 5.541600 ms MarkObjects: 163.833700 ms  DeleteObjects: 1.339100 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 243375.
-Total: 183.735000 ms (FindLiveObjects: 14.778300 ms CreateObjectMapping: 5.109700 ms MarkObjects: 163.527800 ms  DeleteObjects: 0.318900 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 243375.
-Total: 185.244400 ms (FindLiveObjects: 14.913200 ms CreateObjectMapping: 4.875100 ms MarkObjects: 165.150100 ms  DeleteObjects: 0.305500 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 243375.
-Total: 185.027500 ms (FindLiveObjects: 14.623000 ms CreateObjectMapping: 4.810800 ms MarkObjects: 165.325800 ms  DeleteObjects: 0.267300 ms)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/FLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/RLSusp"
- 
-(Filename:  Line: 0)
-
-BoxColliders does not support negative scale or size.
-The effective box size has been forced positive and is likely to give unexpected collision geometry.
-If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_dodgechallenger/#Exhaust_V8Old_Challenger"
- 
-(Filename:  Line: 0)
-
-Finish load car:car_dodgechallenger in 00:00:01.5074661
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Move From Floor
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-SCENE LOADING DONE IN 00:00:10.4604882
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-
-Unloading 2937 unused Assets to reduce memory usage. Loaded Objects now: 248669.
-Total: 189.224700 ms (FindLiveObjects: 15.025200 ms CreateObjectMapping: 5.489600 ms MarkObjects: 167.437500 ms  DeleteObjects: 1.272200 ms)
-
-Start backup save files
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Complete backup
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-EnterToRepairTable
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Show Window:InfoWindow
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Change CarLoader groundPosition: From 2 on Entrance2
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Przygotowanie auta po trybach interior
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Buy item with: amount:1 size:12 width:135 profile:20 et:0
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Montuje seatLeft  seat_challenger
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Montuje seatRight  seat_challenger
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Montuje steeringWheel  steering_wheel3
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Montuje bench  bench_challenger
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Save Car To profile0/#CarLoader1
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Save Car To profile0/#CarLoader5
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Save Car To profile0/#ParkingLvl1CarLoader5
- 
-(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
-
-Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
-
-Unloading 583 unused Assets to reduce memory usage. Loaded Objects now: 250200.
-Total: 206.535000 ms (FindLiveObjects: 15.478100 ms CreateObjectMapping: 6.052500 ms MarkObjects: 179.581900 ms  DeleteObjects: 5.422300 ms)
 
 LoadCar car_salemspectrefastback
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 171 unused Assets to reduce memory usage. Loaded Objects now: 48232.
+Total: 38.264400 ms (FindLiveObjects: 2.443100 ms CreateObjectMapping: 1.229400 ms MarkObjects: 34.449500 ms  DeleteObjects: 0.142100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 48768.
+Total: 38.244800 ms (FindLiveObjects: 2.514900 ms CreateObjectMapping: 1.550300 ms MarkObjects: 34.128000 ms  DeleteObjects: 0.051500 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 49288.
+Total: 38.663400 ms (FindLiveObjects: 2.195700 ms CreateObjectMapping: 1.274200 ms MarkObjects: 35.137200 ms  DeleteObjects: 0.056100 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 49808.
+Total: 38.899900 ms (FindLiveObjects: 2.231700 ms CreateObjectMapping: 1.161500 ms MarkObjects: 35.451400 ms  DeleteObjects: 0.054800 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 50330.
+Total: 38.591700 ms (FindLiveObjects: 2.278400 ms CreateObjectMapping: 1.113400 ms MarkObjects: 35.123200 ms  DeleteObjects: 0.076500 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 50852.
+Total: 39.762800 ms (FindLiveObjects: 2.475500 ms CreateObjectMapping: 1.247200 ms MarkObjects: 35.985100 ms  DeleteObjects: 0.054600 ms)
 
 BoxColliders does not support negative scale or size.
 The effective box size has been forced positive and is likely to give unexpected collision geometry.
@@ -859,7 +196,52 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
  
 (Filename:  Line: 0)
 
-Finish load car:car_salemspectrefastback in 00:00:01.2946439
+Finish load car:car_salemspectrefastback in 00:00:01.8913441
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+SCENE LOADING DONE IN 00:00:29.6864107
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3048 unused Assets to reduce memory usage. Loaded Objects now: 245348.
+Total: 191.924700 ms (FindLiveObjects: 15.630900 ms CreateObjectMapping: 7.136000 ms MarkObjects: 167.925500 ms  DeleteObjects: 1.231800 ms)
+
+Start backup save files
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Complete backup
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Take Mission with id868 Mission11
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LoadCar car_katagirikatsumoto
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_katagirikatsumoto/FLSusp"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "car_katagirikatsumoto/RLSusp"
+ 
+(Filename:  Line: 0)
+
+W zapisie bylo 41 czesci
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+other parts gen : 0.6472479
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
@@ -867,26 +249,362 @@ Close car
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+Change CarLoader groundPosition: From -1 on CarLifter1
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Move From Floor
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Car_lift_1move up
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Car_lift_1move down
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Metallic
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:797
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Metallic
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:796
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:4 size:16 width:205 profile:45 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Metallic
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:792
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Metallic
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:791
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WheelBalance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:798
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WheelBalance
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:799
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EnterToRepairTable
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show Window:InfoWindow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:2 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:2 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:2 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:2 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start insert group
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:800
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Car_lift_1move up
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start insert group
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:802
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:799
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start insert group
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:805
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GroupInventory delete:798
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Car_lift_1move down
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hide tool wait: 0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Delete korekOleju_1 with condition 1 from inventory.
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:4 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Buy item with: amount:1 size:12 width:135 profile:20 et:0
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start end job
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wylaczenie raycasta
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy ma wszystkie czesci mechaniczne
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy ma wszystkie czesci body
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+license_plate_front
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Show Window:InfoWindow
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Start end job
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wylaczenie raycasta
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy ma wszystkie czesci mechaniczne
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy ma wszystkie czesci body
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy ma olej
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Sprawdzanie: czy zamonotwal czesci w gorszej kondycji
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.6689928  0.642247850894928
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Wylaczenie inputa
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Finish mission
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Kasowanie auta
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Zerowanie carloadera
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Przejscie w tryb chodzenia po garazu
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
+Zapis gry
+ 
+(Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Save Car To profile0/#CarLoader5
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Save Car To profile0/#CarLoader1
+Wlaczenie raycasta
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Save Car To profile0/#CarLoader5
+Wlaczenie sterowania
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Save Car To profile0/#ParkingLvl1CarLoader3
+Generate Mission 12
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
 
-Unloading 3435 unused Assets to reduce memory usage. Loaded Objects now: 250240.
-Total: 210.946000 ms (FindLiveObjects: 16.006100 ms CreateObjectMapping: 6.539200 ms MarkObjects: 178.640000 ms  DeleteObjects: 9.760400 ms)
+Unloading 3684 unused Assets to reduce memory usage. Loaded Objects now: 251305.
+Total: 224.699000 ms (FindLiveObjects: 15.748700 ms CreateObjectMapping: 5.687000 ms MarkObjects: 180.506100 ms  DeleteObjects: 22.756800 ms)
 
 START LOAD SCENE :Menu Menu FADER :True ScreenFader (ScreenFader)
  
@@ -908,51 +626,51 @@ Save Car To profile0/#CarLoader5
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
-Unloading 6 Unused Serialized files (Serialized files now loaded: 4)
-UnloadTime: 290.263800 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 166.030000 ms
 
-Unloading 2467 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 268.072100 ms (FindLiveObjects: 13.116600 ms CreateObjectMapping: 3.045300 ms MarkObjects: 147.252100 ms  DeleteObjects: 104.657700 ms)
+Unloading 2870 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 245.356700 ms (FindLiveObjects: 12.243800 ms CreateObjectMapping: 3.288300 ms MarkObjects: 146.331300 ms  DeleteObjects: 83.492900 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 168.983600 ms (FindLiveObjects: 17.466100 ms CreateObjectMapping: 2.816700 ms MarkObjects: 148.441800 ms  DeleteObjects: 0.258900 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 170.266700 ms (FindLiveObjects: 21.006200 ms CreateObjectMapping: 2.746900 ms MarkObjects: 146.292800 ms  DeleteObjects: 0.220000 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 163.743300 ms (FindLiveObjects: 13.094000 ms CreateObjectMapping: 2.792700 ms MarkObjects: 147.638000 ms  DeleteObjects: 0.218200 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 160.843200 ms (FindLiveObjects: 12.077700 ms CreateObjectMapping: 2.767400 ms MarkObjects: 145.777100 ms  DeleteObjects: 0.220100 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 163.855400 ms (FindLiveObjects: 12.836700 ms CreateObjectMapping: 2.797600 ms MarkObjects: 148.004900 ms  DeleteObjects: 0.216000 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 159.744900 ms (FindLiveObjects: 12.105900 ms CreateObjectMapping: 2.736300 ms MarkObjects: 144.684400 ms  DeleteObjects: 0.217600 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 164.822500 ms (FindLiveObjects: 12.788500 ms CreateObjectMapping: 2.870900 ms MarkObjects: 148.945600 ms  DeleteObjects: 0.217200 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 159.572700 ms (FindLiveObjects: 12.144000 ms CreateObjectMapping: 2.746400 ms MarkObjects: 144.464100 ms  DeleteObjects: 0.217800 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 163.327100 ms (FindLiveObjects: 13.070600 ms CreateObjectMapping: 2.774200 ms MarkObjects: 147.261800 ms  DeleteObjects: 0.220000 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 161.353800 ms (FindLiveObjects: 12.240800 ms CreateObjectMapping: 2.847100 ms MarkObjects: 146.046800 ms  DeleteObjects: 0.218700 ms)
 
-Unloading 0 Unused Serialized files (Serialized files now loaded: 4)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 3)
 
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202628.
-Total: 163.305300 ms (FindLiveObjects: 12.734200 ms CreateObjectMapping: 2.842300 ms MarkObjects: 147.512200 ms  DeleteObjects: 0.216000 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 202625.
+Total: 159.788400 ms (FindLiveObjects: 12.047900 ms CreateObjectMapping: 2.726400 ms MarkObjects: 144.795000 ms  DeleteObjects: 0.218300 ms)
 
-Unloading 7 Unused Serialized files (Serialized files now loaded: 4)
-UnloadTime: 12.059800 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 9.032600 ms
 LoadCar car_chieftainbandit
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
-Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 203428.
-Total: 170.383200 ms (FindLiveObjects: 13.548100 ms CreateObjectMapping: 3.274500 ms MarkObjects: 153.217500 ms  DeleteObjects: 0.342900 ms)
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 203425.
+Total: 168.686500 ms (FindLiveObjects: 12.679000 ms CreateObjectMapping: 3.499800 ms MarkObjects: 152.266200 ms  DeleteObjects: 0.240900 ms)
 
 Modo normal
  
@@ -976,17 +694,17 @@ If you absolutely need to use negative scaling you can use the convex MeshCollid
  
 (Filename:  Line: 0)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 4)
-SCENE LOADING DONE IN 00:00:05.5926614
+Unloading 2 Unused Serialized files (Serialized files now loaded: 3)
+SCENE LOADING DONE IN 00:00:05.5122431
  
 (Filename: C:\buildslave\unity\build\artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 
-Unloading 2811 unused Assets to reduce memory usage. Loaded Objects now: 207886.
-Total: 169.556000 ms (FindLiveObjects: 13.825600 ms CreateObjectMapping: 3.189900 ms MarkObjects: 151.526000 ms  DeleteObjects: 1.014200 ms)
+Unloading 2811 unused Assets to reduce memory usage. Loaded Objects now: 207883.
+Total: 165.437500 ms (FindLiveObjects: 13.412700 ms CreateObjectMapping: 3.135400 ms MarkObjects: 147.767500 ms  DeleteObjects: 1.121600 ms)
 
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2b4 -> priority: 1 
-  Thread -> id: 1858 -> priority: 1 
-  Thread -> id: f1c -> priority: 1 
-  Thread -> id: 3244 -> priority: 1 
+  Thread -> id: 1718 -> priority: 1 
+  Thread -> id: 2584 -> priority: 1 
+  Thread -> id: fc -> priority: 1 
+  Thread -> id: 2aec -> priority: 1 
